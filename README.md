@@ -13,7 +13,3 @@ Sistema simples de banco feito em Python com operações básicas de:
 - Controle de saldo em tempo real
 - Histórico de depósitos e saques
 - Menu interativo via terminal
-
-## Como executar
-```bash
-python main.py
